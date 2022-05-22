@@ -1,0 +1,17 @@
+<workout_file>
+    <name>New Workout</name>
+    <workout>
+        <SteadyState Duration="1200" PowerLow="0.65" PowerHigh="0.65"/>
+        <IntervalsT Repeat="2" OnDuration="60" OffDuration="60" PowerOnLow="0.8" PowerOnHigh="0.8" PowerOffLow="0.65" PowerOffHigh="0.65" />
+        <SteadyState Duration="60" PowerLow="0.8" PowerHigh="0.8"/>
+        <IntervalsT Repeat="2" OnDuration="180" OffDuration="60" PowerOnLow="0.65" PowerOnHigh="0.65" PowerOffLow="1.5" PowerOffHigh="1.5" />
+        <IntervalsT Repeat="2" OnDuration="300" OffDuration="10" PowerOnLow="0.65" PowerOnHigh="0.65" PowerOffLow="2.5" PowerOffHigh="2.5" />
+        <IntervalsT Repeat="2" OnDuration="300" OffDuration="15" PowerOnLow="0.65" PowerOnHigh="0.65" PowerOffLow="3" PowerOffHigh="3" />
+        <SteadyState Duration="300" PowerLow="0.65" PowerHigh="0.65"/>
+        <SteadyState Duration="300" PowerLow="1.15" PowerHigh="1.15"/>
+        <SteadyState Duration="300" PowerLow="0.65" PowerHigh="0.65"/>
+        <SteadyState Duration="1200" PowerLow="1.05" PowerHigh="1.05"/>
+        <SteadyState Duration="300" PowerLow="0.65" PowerHigh="0.65"/>
+        <SteadyState Duration="300" PowerLow="0" PowerHigh="0"/>
+    </workout>
+</workout_file>
