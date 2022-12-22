@@ -1,0 +1,51 @@
+[COURSE HEADER]
+FTP=100
+VERSION=2.0
+DESCRIPTION=New Workout
+FILE NAME=/home/noburt/Documents/workouts/gc-workouts/HIIT6x4m.erg
+MINUTES WATTS
+[END COURSE HEADER]
+[COURSE DATA]
+0.00    50
+20.00    LAP
+20.00    76
+20.00    119
+24.00    LAP
+24.00    119
+24.00    50
+26.00    LAP
+26.00    50
+26.00    119
+30.00    LAP
+30.00    119
+30.00    50
+32.00    LAP
+32.00    50
+32.00    119
+36.00    LAP
+36.00    119
+36.00    50
+38.00    LAP
+38.00    50
+38.00    119
+42.00    LAP
+42.00    119
+42.00    50
+44.00    LAP
+44.00    50
+44.00    119
+48.00    LAP
+48.00    119
+48.00    50
+50.00    LAP
+50.00    50
+50.00    119
+54.00    LAP
+54.00    119
+54.00    50
+56.00    LAP
+56.00    50
+56.00    75
+65.00    LAP
+65.00    75
+[END COURSE DATA]
