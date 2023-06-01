@@ -1,0 +1,35 @@
+[COURSE HEADER]
+FTP=100
+VERSION=2.0
+DESCRIPTION=New Workout
+FILE NAME=/Users/elbrecht/Documents/gc-workouts/0/23-NEUR-3x10.erg
+MINUTES WATTS
+[END COURSE HEADER]
+[COURSE DATA]
+0.00    40
+30.00    LAP
+30.00    60
+30.00    112
+40.00    112
+40.00    30
+48.00    30
+48.02    LAP
+48.02    30
+48.02    112
+58.02    112
+58.02    30
+66.02    30
+66.03    LAP
+66.03    30
+66.03    112
+76.03    112
+76.03    30
+84.03    30
+84.05    LAP
+84.05    30
+84.05    50
+114.05    LAP
+114.05    50
+114.05    0
+119.05    0
+[END COURSE DATA]

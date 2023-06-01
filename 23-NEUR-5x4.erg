@@ -1,0 +1,47 @@
+[COURSE HEADER]
+FTP=100
+VERSION=2.0
+DESCRIPTION=New Workout
+FILE NAME=/Users/elbrecht/Documents/gc-workouts/0/23-NEUR-5x4.erg
+MINUTES WATTS
+[END COURSE HEADER]
+[COURSE DATA]
+0.00    40
+30.00    LAP
+30.00    60
+30.00    125
+34.00    125
+34.00    30
+42.00    30
+42.02    LAP
+42.02    30
+42.02    125
+46.02    125
+46.02    30
+54.02    30
+54.03    LAP
+54.03    30
+54.03    125
+58.03    125
+58.03    30
+66.03    30
+66.05    LAP
+66.05    30
+66.05    125
+70.05    125
+70.05    30
+78.05    30
+78.07    LAP
+78.07    30
+78.07    125
+82.07    125
+82.07    30
+90.07    30
+90.08    LAP
+90.08    30
+90.08    50
+120.08    LAP
+120.08    50
+120.08    0
+125.08    0
+[END COURSE DATA]
