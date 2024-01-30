@@ -1,0 +1,9 @@
+[COURSE HEADER]
+VERSION = 2
+UNITS = METRIC
+DESCRIPTION = golden cheetah
+FILE NAME = /Users/elbrecht/Documents/gc-workouts/MVP.mrc
+MINUTES PERCENT
+[END COURSE HEADER]
+[COURSE DATA]
+[END COURSE DATA]
