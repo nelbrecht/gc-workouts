@@ -3,7 +3,7 @@
 		<property name="title" type="QString" value="Power" />
 		<property name="subtitle" type="QString" value="" />
 		<property name="widthFactor" type="double" value="6.25" />
-		<property name="heightFactor" type="double" value="7.14286" />
+		<property name="heightFactor" type="double" value="5.55556" />
 		<property name="style" type="int" value="0" />
 		<property name="resizable" type="bool" value="1" />
 		<property name="showInstant" type="bool" value="1" />
@@ -16,7 +16,7 @@
 		<property name="title" type="QString" value="Target Power" />
 		<property name="subtitle" type="QString" value="" />
 		<property name="widthFactor" type="double" value="8.33333" />
-		<property name="heightFactor" type="double" value="7.14286" />
+		<property name="heightFactor" type="double" value="5.55556" />
 		<property name="style" type="int" value="0" />
 		<property name="resizable" type="bool" value="1" />
 		<property name="showInstant" type="bool" value="0" />
@@ -29,7 +29,7 @@
 		<property name="title" type="QString" value="BikeStress" />
 		<property name="subtitle" type="QString" value="" />
 		<property name="widthFactor" type="double" value="10" />
-		<property name="heightFactor" type="double" value="7.14286" />
+		<property name="heightFactor" type="double" value="5.55556" />
 		<property name="style" type="int" value="0" />
 		<property name="resizable" type="bool" value="1" />
 		<property name="showInstant" type="bool" value="1" />
@@ -42,7 +42,7 @@
 		<property name="title" type="QString" value="W&apos; bal" />
 		<property name="subtitle" type="QString" value="" />
 		<property name="widthFactor" type="double" value="8.33333" />
-		<property name="heightFactor" type="double" value="7.14286" />
+		<property name="heightFactor" type="double" value="5.55556" />
 		<property name="style" type="int" value="0" />
 		<property name="resizable" type="bool" value="1" />
 		<property name="showInstant" type="bool" value="1" />
@@ -55,7 +55,7 @@
 		<property name="title" type="QString" value="Cadence" />
 		<property name="subtitle" type="QString" value="" />
 		<property name="widthFactor" type="double" value="8.33333" />
-		<property name="heightFactor" type="double" value="7.14286" />
+		<property name="heightFactor" type="double" value="5.55556" />
 		<property name="style" type="int" value="0" />
 		<property name="resizable" type="bool" value="1" />
 		<property name="showInstant" type="bool" value="1" />
@@ -68,7 +68,7 @@
 		<property name="title" type="QString" value="HR" />
 		<property name="subtitle" type="QString" value="" />
 		<property name="widthFactor" type="double" value="8.33333" />
-		<property name="heightFactor" type="double" value="7.14286" />
+		<property name="heightFactor" type="double" value="5.55556" />
 		<property name="style" type="int" value="0" />
 		<property name="resizable" type="bool" value="1" />
 		<property name="showInstant" type="bool" value="0" />
@@ -81,7 +81,7 @@
 		<property name="title" type="QString" value="lr balance" />
 		<property name="subtitle" type="QString" value="" />
 		<property name="widthFactor" type="double" value="6.25" />
-		<property name="heightFactor" type="double" value="7.14286" />
+		<property name="heightFactor" type="double" value="5.55556" />
 		<property name="style" type="int" value="0" />
 		<property name="resizable" type="bool" value="1" />
 		<property name="showInstant" type="bool" value="0" />
@@ -94,7 +94,7 @@
 		<property name="title" type="QString" value="Lap" />
 		<property name="subtitle" type="QString" value="" />
 		<property name="widthFactor" type="double" value="10" />
-		<property name="heightFactor" type="double" value="7.14286" />
+		<property name="heightFactor" type="double" value="5.55556" />
 		<property name="style" type="int" value="0" />
 		<property name="resizable" type="bool" value="1" />
 		<property name="showInstant" type="bool" value="0" />
@@ -103,40 +103,11 @@
 		<property name="dataSeries" type="int" value="2" />
 		<property name="style" type="int" value="2" />
 	</chart>
-	<chart id="25" name="" title="Workout" >
-		<property name="title" type="QString" value="Workout" />
-		<property name="subtitle" type="QString" value="" />
-		<property name="widthFactor" type="double" value="1.42857" />
-		<property name="heightFactor" type="double" value="3.125" />
-		<property name="style" type="int" value="2" />
-		<property name="resizable" type="bool" value="1" />
-		<property name="showColorZones" type="int" value="0" />
-		<property name="showTooltip" type="int" value="0" />
-	</chart>
-	<chart id="24" name="" title="Realtime" >
-		<property name="title" type="QString" value="Realtime" />
-		<property name="subtitle" type="QString" value="" />
-		<property name="widthFactor" type="double" value="3.33333" />
-		<property name="heightFactor" type="double" value="3.125" />
-		<property name="style" type="int" value="2" />
-		<property name="resizable" type="bool" value="1" />
-		<property name="showHr" type="int" value="2" />
-		<property name="showSpeed" type="int" value="0" />
-		<property name="showCad" type="int" value="0" />
-		<property name="showAlt" type="int" value="0" />
-		<property name="showPower" type="int" value="2" />
-		<property name="showHHb" type="int" value="0" />
-		<property name="showO2Hb" type="int" value="0" />
-		<property name="showtHb" type="int" value="0" />
-		<property name="showSmO2" type="int" value="0" />
-		<property name="showPow30s" type="int" value="2" />
-		<property name="smoothing" type="int" value="1" />
-	</chart>
 	<chart id="36" name="" title="Workout" >
 		<property name="title" type="QString" value="Workout" />
 		<property name="subtitle" type="QString" value="" />
 		<property name="widthFactor" type="double" value="1" />
-		<property name="heightFactor" type="double" value="2.5" />
+		<property name="heightFactor" type="double" value="1.6129" />
 		<property name="style" type="int" value="2" />
 		<property name="resizable" type="bool" value="1" />
 		<property name="plotHr" type="bool" value="1" />
@@ -153,24 +124,30 @@
 		<property name="ventilationPlotAvgLength" type="int" value="1" />
 		<property name="speedPlotAvgLength" type="int" value="1" />
 	</chart>
-	<chart id="22" name="" title="Elapsed Time" >
-		<property name="title" type="QString" value="Elapsed Time" />
+	<chart id="24" name="" title="Realtime" >
+		<property name="title" type="QString" value="Realtime" />
 		<property name="subtitle" type="QString" value="" />
-		<property name="widthFactor" type="double" value="4.54545" />
-		<property name="heightFactor" type="double" value="7.14286" />
-		<property name="style" type="int" value="0" />
-		<property name="resizable" type="bool" value="1" />
-		<property name="showInstant" type="bool" value="0" />
-		<property name="avgsecs" type="int" value="1" />
-		<property name="avgType" type="int" value="0" />
-		<property name="dataSeries" type="int" value="1" />
+		<property name="widthFactor" type="double" value="2.94118" />
+		<property name="heightFactor" type="double" value="5.55556" />
 		<property name="style" type="int" value="2" />
+		<property name="resizable" type="bool" value="1" />
+		<property name="showHr" type="int" value="2" />
+		<property name="showSpeed" type="int" value="0" />
+		<property name="showCad" type="int" value="0" />
+		<property name="showAlt" type="int" value="0" />
+		<property name="showPower" type="int" value="2" />
+		<property name="showHHb" type="int" value="0" />
+		<property name="showO2Hb" type="int" value="0" />
+		<property name="showtHb" type="int" value="0" />
+		<property name="showSmO2" type="int" value="0" />
+		<property name="showPow30s" type="int" value="2" />
+		<property name="smoothing" type="int" value="1" />
 	</chart>
 	<chart id="22" name="" title="lap time" >
 		<property name="title" type="QString" value="lap time" />
 		<property name="subtitle" type="QString" value="" />
 		<property name="widthFactor" type="double" value="4.54545" />
-		<property name="heightFactor" type="double" value="7.14286" />
+		<property name="heightFactor" type="double" value="5.55556" />
 		<property name="style" type="int" value="0" />
 		<property name="resizable" type="bool" value="1" />
 		<property name="showInstant" type="bool" value="0" />
@@ -179,11 +156,24 @@
 		<property name="dataSeries" type="int" value="3" />
 		<property name="style" type="int" value="2" />
 	</chart>
+	<chart id="22" name="" title="Elapsed Time" >
+		<property name="title" type="QString" value="Elapsed Time" />
+		<property name="subtitle" type="QString" value="" />
+		<property name="widthFactor" type="double" value="4.54545" />
+		<property name="heightFactor" type="double" value="5.55556" />
+		<property name="style" type="int" value="0" />
+		<property name="resizable" type="bool" value="1" />
+		<property name="showInstant" type="bool" value="0" />
+		<property name="avgsecs" type="int" value="1" />
+		<property name="avgType" type="int" value="0" />
+		<property name="dataSeries" type="int" value="1" />
+		<property name="style" type="int" value="2" />
+	</chart>
 	<chart id="22" name="" title="sec to go" >
 		<property name="title" type="QString" value="sec to go" />
 		<property name="subtitle" type="QString" value="" />
-		<property name="widthFactor" type="double" value="5" />
-		<property name="heightFactor" type="double" value="7.14286" />
+		<property name="widthFactor" type="double" value="4.54545" />
+		<property name="heightFactor" type="double" value="5.55556" />
 		<property name="style" type="int" value="0" />
 		<property name="resizable" type="bool" value="1" />
 		<property name="showInstant" type="bool" value="0" />
